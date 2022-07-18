@@ -121,6 +121,6 @@ footer h3{
         background-image: url(./img5.jpg);
     }
     100%{
-        background-image: url(img6.jpg);
+        background-image: url(./img6.jpg);
     }
 }
